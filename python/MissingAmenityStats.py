@@ -1,0 +1,5 @@
+
+
+class MissingAmenityStats(AmenityStats):
+
+	pass
